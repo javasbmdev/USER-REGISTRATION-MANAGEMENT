@@ -1,0 +1,10 @@
+Hi {FULLNAME} <br/>
+<br/>
+Find our temporary password below <br/>
+<br/>
+Temporary password  ' {TEMP-PWD} '<br/>
+<br/>
+<a href= "{URL}"> click to activate your account </a><br/>
+<br/>
+Thanks ,<br/>
+Admin <br/>
