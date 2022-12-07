@@ -11,8 +11,8 @@ spring:
       ddl-auto: update
     show-sql: true
   mail:
-    host: smtp.gmail.com
-    password:  ifksvofxlqfhevkh
+    host: hgjhghjghf
+    password: ghfhffhgfhf
     port: 587
     properties:
       mail:
@@ -20,7 +20,7 @@ spring:
           auth: true
           starttls:
             enable: true
-    username: fredriknelson88@gmail.com    
+    username: hjghjgfhjfghjf   
     
  
 #    mail:
